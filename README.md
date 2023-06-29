@@ -1,5 +1,6 @@
 # stoopidwindowsmitelfix
-stupid mitel crash fix click
+stupid mitel crash fix click is this batch file
+
 mitel has released a terrible excuse for a phone
 their softphone only runs on windows
 their softphone barely functions
